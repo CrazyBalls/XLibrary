@@ -1,0 +1,86 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6122191A69E8514F7C061D3C3431EEF94A4F6ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : 0,
+    "0145ED403843D35A6DC92B71A0E30320516A537C" : 0,
+    "6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB" : 0,
+    "4182765C525509B305166AB949D5935FD5C85212" : 0,
+    "C6122191A69E8514F7C061D3C3431EEF94A4F6ED" : 0,
+    "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9" : 0,
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 0,
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : 0,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 0,
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85E7A13F-4C11-4786-A692-E084EAE5C5ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF461CAADB13706454B17F2BB50F488BBAD743E5" : "XLibrary\/ThirdParty\/IQKeyboardManager\/",
+    "0145ED403843D35A6DC92B71A0E30320516A537C" : "XLibrary\/ThirdParty\/Base64\/",
+    "6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB" : "XLibrary\/ThirdParty\/Masonry\/",
+    "4182765C525509B305166AB949D5935FD5C85212" : "XLibrary\/ThirdParty\/MBProgressHUD\/",
+    "C6122191A69E8514F7C061D3C3431EEF94A4F6ED" : "XLibrary\/",
+    "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9" : "XLibrary\/ThirdParty\/MJRefresh\/",
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "XLibrary\/ThirdParty\/SDWebImage\/",
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : "XLibrary\/ThirdParty\/Reachability\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "XLibrary\/ThirdParty\/AFNetworking\/",
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : "XLibrary\/ThirdParty\/libPhoneNumber-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XLibrary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XLibrary.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nicklockwood\/Base64.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0145ED403843D35A6DC92B71A0E30320516A537C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CoderMJLee\/MJRefresh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdg\/MBProgressHUD.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4182765C525509B305166AB949D5935FD5C85212"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iziz\/libPhoneNumber-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B3EB95C027941551540D502D20BCE33FBFABC81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SnapKit\/Masonry.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FC4832245A6A8E50F2A782F20A8B58A46BD1FEB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tonymillion\/Reachability.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7070BA961BCA286ED2393408B1E3D78393C99B33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XuJiayao\/XLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6122191A69E8514F7C061D3C3431EEF94A4F6ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AFNetworking\/AFNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hackiftekhar\/IQKeyboardManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF461CAADB13706454B17F2BB50F488BBAD743E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rs\/SDWebImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    }
+  ]
+}
